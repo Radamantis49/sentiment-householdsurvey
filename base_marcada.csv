@@ -1,0 +1,186 @@
+﻿Categoria,Pregunta,Numero_pregunta,Puntaje_pregunta,Tipo
+Vivienda,01H Incluyendo sala-comedor ¿de cuántos cuartos en total dispone este hogar?,1 H,0,Neutro
+Vivienda,01V Tipo de vivienda,1V,0,Neutro
+Vivienda,02H ¿En cuántos de esos cuartos  duermen las personas de este hogar?,2 H,0,Neutro
+Vivienda,02V ¿Cuál es el material predominante de las paredes exteriores de la vivienda?,2V,0.375,Positiva
+Vivienda,03H El servicio sanitario que utiliza el hogar es:,3 H,0,Neutro
+Vivienda,03V ¿ Cúal es el material predominante de los pisos de la vivienda?,3V,0.375,Positiva
+Vivienda,04H El servicio sanitario del hogar es:,4 H,0,Neutro
+Vivienda,04V ¿Con cuáles de los siguientes servicios cuenta la vivienda?,4V,0,Neutro
+Vivienda,05H ¿Cómo eliminan principalmente la basura en este hogar?,5 H,0,Neutro
+Vivienda,05V ¿El agua del acueducto llega las 24 horas del día durante los siete días de la semana?,5V,-0.25,Negativa
+Vivienda,06H ¿De dónde obtiene principalmente este hogar el agua para consumo humano?,6 H,0,Neutro
+Vivienda,"07H ¿En cuál de los siguientes lugares, preparan los",7 H,0,Neutro
+Vivienda,08H ¿Con qué energía o combustible cocinan principalmente en este hogar?,8 H,0.3875,Positiva
+Vivienda,09H La vivienda ocupada por este hogar es:,9 H,0,Neutro
+Vivienda,"10H Si Usted quisiera vender esta vivienda, ¿cual sería el precio mínimo en que la vendería?",10 H,0,Neutro
+Vivienda,"11H Si tuviera que pagar arriendo por esta vivienda, ¿cuánto estima que tendría que pagar mensualmente?",11 H,0.521,Positiva
+Vivienda,12H ¿Cuánto pagan mensualmente por arriendo ?,12 H,0,Neutro
+Vivienda,"13H ¿Cuáles de los siguientes servicios o bienes en uso, posee este hogar?",13 H,0,Neutro
+Vivienda,14H ¿ En este hogar algún o algunos de sus miembros tiene teléfono celular propio?,14 H,0.25,Positiva
+Vivienda,15H ¿Cuáles de los siguientes productos financieros utiliza usted o algún miembro del hogar actualmente?,15 H,0,Neutro
+Fuerza_trabajo,02. ¿En que actividad ocupó...... la mayor parte del tiempo la semana pasada?,1,0.23625000000000002,Positiva
+Fuerza_trabajo,"03. Además de lo anterior, ¿.....realizó la semana pasada  alguna actividad paga por una hora o más?",2,0.181,Positiva
+Fuerza_trabajo,"04. Aunque.... no trabajó la semana pasada, por una hora o más en forma remunerada, ¿tenía durante esa semana algún trabajo o negocio por el que recibe ingresos",3,0.294,Positiva
+Fuerza_trabajo,05. ¿....trabajó la semana pasada en un negocio por UNA HORA O MÁS sin que le pagaran?,4,0.09683333333333334,Positiva
+Fuerza_trabajo,06. En las ÚLTIMAS 4 SEMANAS ¿.....hizo alguna diligencia para conseguir un trabajo o instalar un negocio?,5,0.09383333333333332,Positiva
+Fuerza_trabajo,07. ¿Qué hizo ... principalmente en las ÚLTIMAS CUATRO SEMANAS para conseguir un trabajo o instalar un negocio? ,6,0.13114285714285714,Positiva
+Fuerza_trabajo,08. ¿... desea conseguir un trabajo remunerado o instalar un negocio?,7,0.1928888888888889,Positiva
+Fuerza_trabajo,"09. Aunque ..... desea trabajar, ¿por qué motivo  principal no hizo diligencias para buscar un trabajo o instalar un negocio en las ÚLTIMAS 4 SEMANAS?",8,0.048625,Positiva
+Fuerza_trabajo,10. Durante los últimos 12 meses ¿trabajó por lo menos 2 semanas consecutivas?,9,0.375,Positiva
+Fuerza_trabajo,"11. Después de su último empleo, ¿..ha hecho alguna diligencia para conseguir trabajo o instalar un negocio? ",10,0.10433333333333333,Positiva
+Fuerza_trabajo,12. Durante los últimos 12 meses ¿ha hecho alguna diligencia para conseguir trabajo o instalar un negocio?,11,0.16,Positiva
+Fuerza_trabajo,13. ¿Cuántos meses hace quedejó de buscar trabajo por última vez?,12,0.07666666666666666,Positiva
+Fuerza_trabajo,14. Si le hubiera resultado algún trabajo a . ¿estaba disponible la semana pasada para empezar a trabajar?,13,0.3405,Positiva
+Desocupados,01. ¿Durante cuantas semanas ha estado o estuvo... buscando trabajo?,1,0.23625000000000002,Positiva
+Desocupados,"02. Si le hubiera resultado un trabajo la semana pasada, ¿ cuantas horas a la semana estaba disponible para trabajar?",2,0.181,Positiva
+Desocupados,02A En caso de que le ofrecieran un empleo a ... ¿Cual seria la remuneracion o el salario mensual mas bajo por el que aceptaria?,2A,0,Neutro
+Desocupados,"03. ¿En que ocupacion, oficio o labor ha buscado trabajo? ",3,0.294,Positiva
+Desocupados,04A Ha buscado trabajo como ,4A,0,Neutro
+Desocupados,05. ¿ha buscado trabajo por primera vez o habia trabajado antes por lo menos durante dos semanas consecutivas?,5,0.09383333333333332,Positiva
+Desocupados,06. ¿Cuantas semanas hace que dejo de trabajar por ultima vez?,6,0.13114285714285714,Positiva
+Desocupados,"07. ¿Que ocupacion, oficio o labor realizo la ultima vez que trabajo?",7,0.1928888888888889,Positiva
+Desocupados,"08. ¿A que actividad se dedicaba principalmente la empresa negocio, industria, oficina, firma o finca en la que realizo su ultimo trabajo? ",8,0.048625,Positiva
+Desocupados,09. En este ultimo trabajo era: ,9,0.375,Positiva
+Desocupados,"10. ¿Cuantas personas en total tenia la empresa, negocio o finca, donde .... trabajaba?",10,0.10433333333333333,Positiva
+Desocupados,11. ¿Actualmente recibe subsidio de desempleo?,11,0.16,Positiva
+Desocupados,"12. En caso de enfermedad, ¿como cubriria los costos medicos y de medicamentos?",12,0.07666666666666666,Positiva
+Desocupados,12A ¿Esta cotizando actualmente a un fondo de pensiones?,12A,-0.375,Negativa
+Desocupados,12B ¿A cual de los siguientes fondos cotiza actualmente:,12B,0,Neutro
+Desocupados,13. ¿Que esta haciendo Usted actualmente para mantenerse economicamente en su vejez?,13,0.3405,Positiva
+Desocupados,14. ¿Recibio o gano el mes pasado ingresos por concepto de trabajo?,14,0.37966666666666665,Positiva
+Educacion,01. ¿Sabe leer y escribir?,1,0.23625000000000002,Positiva
+Educacion,"02. ¿Actualmente asiste al preescolar, escuela, colegio o universidad?",2,0.181,Positiva
+Educacion,03. El establecimiento al que asiste ¿es oficial?,3,0.294,Positiva
+Educacion,04. ¿Cuál es el nivel educativo más alto alcanzado por y el último año o grado aprobado en este nivel?,NA,0.5157499999999999,Positiva
+Educacion,05. ¿Cuál es el título o diploma  de mayor nivel educativo que usted ha recibido?,5,0.09383333333333332,Positiva
+Educacion,06.¿Se graduó usted de una escuela normal superior?,6,0.13114285714285714,Positiva
+Fecundidad,01. ¿Ha tenido algún HIJO O HIJA que haya NACIDO VIVO (A)?,1,0.23625000000000002,Positiva
+Fecundidad,"02. De los HIJOS e HIJAS que NACIERON VIVOS de, ¿cuántos están VIVOS ACTUALMENTE?",2,0.181,Positiva
+Fecundidad,03. ¿En qué AÑO Y MES TUVO su ÚNICO ó ÚLTIMO hijo(a) nacido(a) vivo(a) ?,3,0.294,Positiva
+Formacion_trabajo,01. ¿Actualmente asiste a un curso de formación para el trabajo?,1,0.23625000000000002,Positiva
+Formacion_trabajo,02. En los últimos 24 meses ¿ha tomado y terminado algún curso de formación para el trabajo?,2,0.181,Positiva
+Formacion_trabajo,03. ¿Cuál es la duración total en horas del curso?,3,0.294,Positiva
+Formacion_trabajo,04. En qué modalidad se dicta este curso,4,0.09683333333333334,Positiva
+Formacion_trabajo,05. Lo dicta una institución:,5,0.09383333333333332,Positiva
+Formacion_trabajo,06. Cuál institución pública lo dictó:,6,0.13114285714285714,Positiva
+Formacion_trabajo,07. Cuál institución privada lo dictó:,7,0.1928888888888889,Positiva
+Formacion_trabajo,08. ¿Cuál es la temática del curso?,8,0.048625,Positiva
+Formacion_trabajo,09. Quién pagó por este curso:,9,0.375,Positiva
+Formacion_trabajo,10. ¿Quién pagó la otra parte o la totalidad del curso?,10,0.10433333333333333,Positiva
+Formacion_trabajo,11. ¿Cuál era su principal objetivo al iniciar el curso?,11,0.16,Positiva
+Formacion_trabajo,12. ¿Qué le ha permitido haber hecho ese curso?,12,0.07666666666666666,Positiva
+Formacion_trabajo,13. Al finalizar el curso le entregaron:,13,0.3405,Positiva
+Formacion_trabajo,14. ¿Cuál fue la razón principal para no tomar cursos de formación para el trabajo?,14,0.37966666666666665,Positiva
+Formacion_trabajo,15. ¿Tiene planeado asistir a algún curso de formación para el trabajo en los próximos 12 meses?,15,0.125,Positiva
+Formacion_trabajo,"16. En los últimos 24 meses, ¿le han certificado alguna competencia,  sin haber tomado un curso de formación para el trabajo?",16,0.09399999999999999,Positiva
+Inactivos,01. Si le hubiera resultado algún trabajo a . ¿estaba disponible la semana pasada para empezar a trabajar?,1,0.23625000000000002,Positiva
+Inactivos,01A ¿Cuántas horas a la semana estaba disponible para trabajar?,1A,0.02099999999999999,Positiva
+Inactivos,01B En caso de que le ofrecieran un empleo a ... ¿Cuál sería el salario o remuneración mensual más baja por la que aceptaría?,1B,0,Neutro
+Inactivos,01C ¿ha trabajado alguna vez por lo menos durante dos   semanas consecutivas?,1C,0.25,Positiva
+Inactivos,02. ¿Cuánto hace que trabajó por última vez?,2,0.181,Positiva
+Inactivos,03. ¿Por qué motivo o razón principal dejó ese trabajo?,3,0.294,Positiva
+Inactivos,"04. Después de su último trabajo,  ¿Ha hecho alguna diligencia para conseguir otro trabajo o instalar un negocio?",4,0.09683333333333334,Positiva
+Inactivos,05. ¿Ha buscado trabajo alguna vez?  ,5,0.09383333333333332,Positiva
+Inactivos,06. ¿Cuanto hace que buscó trabajo por última vez?,6,0.13114285714285714,Positiva
+Inactivos,07. ¿Por qué razón principal dejó de buscar trabajo?,7,0.1928888888888889,Positiva
+Inactivos,08. ¿Está afiliado actualmente a un fondo de pensiones?,8,0.048625,Positiva
+Inactivos,08A ¿Está cotizando actualmente a un fondo de pensiones?,8A,-0.375,Negativa
+Inactivos,09. A cual de los siguientes fondos esta afiliado actualmente:,9A,0.25,Positiva
+Inactivos,10. ¿Recibió o ganó el mes pasado ingresos por concepto de trabajo?,10,0.10433333333333333,Positiva
+Migracion,01. ¿siempre ha vivido en este  municipio? ,1,0.23625000000000002,Positiva
+Migracion,02. Dónde nació:,2,0.181,Positiva
+Migracion,"03. ¿Dónde vivía . , hace 5 años?",3,0.294,Positiva
+Migracion,04. El lugar donde vivía . Hace 5 años era:,4,0.09683333333333334,Positiva
+Migracion,"05. ¿Dónde vivía . , hace 12 meses?",5,0.09383333333333332,Positiva
+Migracion,06. El lugar donde vivía . hace 12 meses era:,6,0.13114285714285714,Positiva
+Migracion,07. ¿Cuál fue el principal motivo por el que . Cambió el lugar donde residia hace 12 meses?,7,0.1928888888888889,Positiva
+Ocupados,01. ¿Qué hace  en este trabajo? ,1,0.23625000000000002,Positiva
+Ocupados,"02. ¿Cuál es el nombre de la empresa, negocio, industria, oficina,  firma o finca donde trabaja ..?",2,0.181,Positiva
+Ocupados,02a A ¿En qué municipio y departamento realiza   principalmente este trabajo? ,2A,0,Neutro
+Ocupados,03. ¿A qué actividad se dedica principalmente la empresa o negocio  en la que   realiza su trabajo?,3,0.294,Positiva
+Ocupados,04. ¿Para realizar este trabajo tiene ... algún tipo de contrato? (verbal o escrito),4,0.09683333333333334,Positiva
+Ocupados,05. ¿El contrato es verbal o escrito?,5,0.09383333333333332,Positiva
+Ocupados,06. ¿El contrato de trabajo es a termino indefinido o a termino fijo?,6,0.13114285714285714,Positiva
+Ocupados,"07. La empresa o persona que contrató a ...., ¿es la misma empresa donde trabaja o  presta sus servicios?",7,0.1928888888888889,Positiva
+Ocupados,07A La empresa que contrato a es:,7A,0,Neutro
+Ocupados,08. ¿Cual es la actividad de la empresa o persona que lo contrató?,8,0.048625,Positiva
+Ocupados,09. ¿Esta ..... Conforme con el tipo de contrato que tiene?,9,0.375,Positiva
+Ocupados,"10. ¿Por su contrato actual, recibe o tiene derecho a:",10,0.10433333333333333,Positiva
+Ocupados,"11. ¿Cuanto tiempo lleva ... trabajando en esta empresa, negocio, industria, oficina,  firma o finca de manera continua?",11,0.16,Positiva
+Ocupados,12. En este trabajo es: ,12,0.07666666666666666,Positiva
+Ocupados,"13. ¿Por qué medio principal, .... consiguió su empleo actual?",13,0.3405,Positiva
+Ocupados,13A ¿Su empleo actual lo obtuvo a través de páginas de internet?,13A,0,Neutro
+Ocupados,14. Antes de descuentos ¿cuánto ganó .... el mes pasado en este empleo?,14,0.37966666666666665,Positiva
+Ocupados,15. ¿El mes pasado recibió ingresos por   concepto de horas extras?,15,0.125,Positiva
+Ocupados,"16. Además del salario en dinero, ¿el mes pasado recibió alimentos como arte de pago por su trabajo?",16,0.09399999999999999,Positiva
+Ocupados,"17. Además del salario en dinero, ¿el mes pasado recibió vivienda como parte de pago por su trabajo?",17,0,Neutro
+Ocupados,18. ¿Normalmente... utiliza transporte de la empresa para desplazarse a su trabajo (bus o automóvil)?,18,0,Neutro
+Ocupados,"19.Además del salario en dinero, ¿el mes pasado... recibió otros ingresos en especie por su trabajo ?",19,0,Neutro
+Ocupados,20. ¿Cuál  o cuáles de los siguientes subsidios recibió ..  el  mes pasado:,20,0,Neutro
+Ocupados,21. ¿El  mes pasado recibió ...:,21,0,Neutro
+Ocupados,22. ¿En los últimos 12 meses recibió:,22,0,Neutro
+Ocupados,23. ¿La semana pasada ..... trabajó horas extras remuneradas?,23,-0.25,Negativa
+Ocupados,"23A En ese trabajo, ¿tiene empleados o personas que le ayudan en su negocio o actividad?",23A,0.25,Positiva
+Ocupados,"23B. De las personas que ocupa o le ayudan en su negocio o actividad, cuántos son:",23B,0.25,Positiva
+Ocupados,23C. Ofrece sus servicios o productos:,23C,0,Neutro
+Ocupados,"24. En la semana pasada, ¿cuál de las siguientes formas de trabajo realizó:",24,0,Neutro
+Ocupados,"25. ¿ ha registrado el negocio ante alguna autoridad o entidad? (Cámaras de comercio, Alcaldías, RUT, registro mercantil)",25,0,Neutro
+Ocupados,25A ¿ ha renovado ese registro?,25A,0.375,Positiva
+Ocupados,25B ¿Cuál fue el último año en el que renovó este registro?,25B,0,Neutro
+Ocupados,"25C ¿El negocio o actividad de  . lleva contabilidad, o libro de registro diario de operaciones?",25C,0.2815,Positiva
+Ocupados,"26. ¿Cuál fue la ganancia neta o los honorarios netos de ... en esa actividad, negocio, profesión o finca, el mes pasado ?",26,0.2955,Positiva
+Ocupados,27. ¿ A cuántos meses corresponde lo que recibió?,27,0,Neutro
+Ocupados,27A ¿Cuál fue la ganancia neta del negocio o de la cosecha durante los últimos doce meses?,27A,0.344,Positiva
+Ocupados,28 Este trabajo es:,28,0,Neutro
+Ocupados,28A ¿Cuál es la razón principal por la que trabaja en forma independiente en lugar de trabajar para un empleador o patrono ?,28A,0.08800000000000001,Positiva
+Ocupados,"28R Si le ofrecieran un empleo como asalariado, en el cuál ganara lo mismo que obtiene actualmente pero con prestaciones, ¿aceptaría?",28R,0,Neutro
+Ocupados,29. ¿Cuántos meses trabajó en los últimos 12 meses?,29,0,Neutro
+Ocupados,30. ¿Cuántas horas a la semana trabaja normalmente.... en ese trabajo?,30,-0.25,Negativa
+Ocupados,31. ¿Cuál es la razón por la que trabaja normalmente menos de 40 horas a la semana?,31,-0.25,Negativa
+Ocupados,32. ¿Cuántas horas trabajó durante la semana pasada en este trabajo?,32,-0.25,Negativa
+Ocupados,"33. ¿Por qué razón, de las horas que normalmente trabaja,  hubo algunas que no trabajó la semana pasada ?",33,0.0625,Positiva
+Ocupados,"34. ¿Cuántas personas en total tiene la empresa, negocio, industria, oficina, firma, finca o sitio donde trabaja?",34,0,Neutro
+Ocupados,35. Dónde realiza principalmente su trabajo:,35,0,Neutro
+Ocupados,36. ¿En caso de enfermedad como cubriría los costos  médicos y los medicamentos?,36,-0.333,Negativa
+Ocupados,37. ¿Está... cotizando actualmente a un fondo de pensiones?,37,-0.375,Negativa
+Ocupados,38. ¿A cuál de los siguientes fondos cotiza actualmente:,38,0,Neutro
+Ocupados,39.¿ Quién paga mensualmente por la afiliación al fondo de pensiones de?,39,0,Neutro
+Ocupados,40. ¿Cuántos años lleva cotizando al fondo de pensiones?,40,0,Neutro
+Ocupados,41. ¿Qué está haciendo Usted actualmente para mantenerse económicamente en su vejez?,41,0,Neutro
+Ocupados,"42.¿Está afiliado por una empresa o individualmente a una Aseguradora de Riesgos Laborales (ARL) (por accidentes de trabajo, enfermedad profesional etc)? ",42,-0.04150000000000001,Negativa
+Ocupados,42A ¿Esta afiliado a una caja de compensación familiar?,42A,0.25,Positiva
+Ocupados,"43. Antes del actual trabajo, ¿ tuvo otro trabajo?",43,0,Neutro
+Ocupados,44. ¿Cuántos meses estuvo sin empleo o trabajo ... entre el trabajo actual y el anterior?,44,0,Neutro
+Ocupados,45. ¿Cuánto tiempo duró en su empleo anterior?,45,0,Neutro
+Ocupados,46. ¿En su empleo anterior era:,46,0,Neutro
+Ocupados,46A ¿Cuál fue la razón principal por la que   dejó su empleo anterior?,46A,0.389,Positiva
+Ocupados,"47. Además de la ocupación principal,  ¿.... tenía la semana  pasada otro trabajo o negocio?",47,0.389,Positiva
+Ocupados,47A ¿En qué municipio y departamento realiza   principalmente este trabajo?,47A,0,Neutro
+Ocupados,48. ¿Cuántas horas trabajó ... la semana pasada en ese segundo trabajo?,48,-0.25,Negativa
+Ocupados,49. En ese segundo trabajo ..es: ,49,0,Neutro
+Ocupados,50. ¿Cuánto recibió o ganó  .. el mes pasado en ese segundo trabajo o negocio?,50,0,Neutro
+Ocupados,"51. ¿Cuántas personas en total tiene la empresa, negocio o finca donde  ... trabaja?",51,0,Neutro
+Ocupados,52. Dónde realiza principalmente su trabajo:,52,0,Neutro
+Ocupados,53. Además de las horas que trabaja actualmente  ¿...... quiere  trabajar más horas?,53,-0.25,Negativa
+Ocupados,54. ¿Cuántas horas adicionales puede trabajar....... a la semana?,54,-0.25,Negativa
+Ocupados,"55. Durante las ÚLTIMAS 4 SEMANAS, ¿ ...... hizo diligencias para trabajar más horas?",55,-0.25,Negativa
+Ocupados,56. Si la semana pasada le hubiera resultado la posibilidad de trabajar más horas   ¿ estaba...... disponible para hacerlo?,56,0.02099999999999999,Positiva
+Ocupados,57. ¿......desea cambiar el trabajo que tiene actualmente?,57,0,Neutro
+Ocupados,58. ¿Por que motivos ....... desea cambiar de trabajo o empleo:,58,0,Neutro
+Ocupados,"59. Durante las ÚLTIMAS 4 SEMANAS,   ¿...... hizo diligencias para  cambiar de trabajo?",59,0,Neutro
+Ocupados,60. Si le resultara un nuevo trabajo o empleo a...¿podría  empezar a desempeñarlo antes de un mes?,60,-0.375,Negativa
+Ocupados,61. ¿Está ... satisfecho:,61,0.6,Positiva
+Ocupados,62. ¿Está afiliado o hace parte de una asociación gremial o sindical?,62,0.25,Positiva
+Ocupados,63. ¿Considera que su empleo o trabajo actual es estable?,63,0.25,Positiva
+Ocupados,64. ¿Su horario de trabajo y sus responsabilidades familiares son compatibles?,64,0,Neutro
+Ocupados,64A ¿Qué medio de transporte utiliza principalmente para desplazarse a su sitio de trabajo?,64A,0,Neutro
+Ocupados,64B ¿Cuánto tiempo se demora regularmente ... en su desplazamiento hacia el trabajo?,64B,0,Neutro
+Ocupados,"65. ¿En caso de no tener trabajo, de donde obtendría principalmente los recursos para sus gastos y/o los de su hogar",65,0.3125,Positiva
+Seguridad,"01. ¿ está afiliado,  es cotizante o es beneficiario de alguna entidad de seguridad social en salud? (Empresa Promotora de Salud - EPS )",1,0.23625000000000002,Positiva
+Seguridad,"02. ¿ Anteriormente estuvo afiliado,  fue cotizante o  beneficiario de alguna entidad de seguridad social en salud? (Empresa Promotora de Salud - EPS )",2,0.181,Positiva
+Seguridad,03. ¿Cuántos meses hace que no está afiliado o no cotiza a la seguridad social en salud?,3,0.294,Positiva
+Seguridad,04. ¿A cuál de los siguientes regímenes de seguridad social en salud está afiliado,4,0.09683333333333334,Positiva
+Seguridad,05. ¿Quién paga mensualmente por la afiliación de?,5,0.09383333333333332,Positiva
+Seguridad,06. ¿Cuánto paga o cuánto le descuentan mensualmente?,6,0.13114285714285714,Positiva
+Seguridad,"07. ¿En los últimos doce meses dejó de asistir al médico o no se hospitalizó, por no tener con que pagar estos servicios en la EPS?",7,0.1928888888888889,Positiva
